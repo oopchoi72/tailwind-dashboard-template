@@ -1,10 +1,11 @@
 {
+  "products": [],
   "users": [
     {
-      "id": 1,
-      "email": "oopchoi@gmail.com",
+      "email": "choi@gmail.com",
       "name": "Choi",
-      "password": "1111"
+      "password": "2222",
+      "id": 1
     },
     {
       "id": 2,
@@ -447,6 +448,20 @@
       "order_no": 2,
       "parent_code": "ROOT",
       "id": 63
+    },
+    {
+      "code": "OD0106",
+      "parent_code": "OD0100",
+      "description": "환송완료",
+      "odder_no": 7,
+      "id": 64
+    },
+    {
+      "code": "MB0100",
+      "description": "회원등급",
+      "order_no": 2,
+      "parent_code": "ROOT",
+      "id": 65
     }
   ]
 }
